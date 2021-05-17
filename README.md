@@ -15,4 +15,4 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election shows that:
-![election-analysis](https://utoronto.bootcampcontent.com/smacpherson/stock-analysis/-/raw/master/Resources/2017_before_refactoring.png)
+![election-analysis](https://github.com/smacpherson2021/Election_Analysis/blob/main/analysis/election-analysis.PNG)
