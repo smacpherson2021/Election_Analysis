@@ -15,4 +15,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election shows that:
+
 ![election-analysis](https://github.com/smacpherson2021/Election_Analysis/blob/main/analysis/election-analysis.PNG)
+
+## Challenge Overview
+
+## Challenge Summary
