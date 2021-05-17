@@ -15,20 +15,19 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election shows that:
-Election Results
--------------------------
-Total Votes: 369,711
--------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
 
-![election-analysis](https://github.com/smacpherson2021/Election_Analysis/blob/main/analysis/election-analysis.PNG)
+Election Results
+Total Votes: 369,711
+
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
+
+Winner: Diana DeGette
+
+Winning Vote Count: 272,892
+
+Winning Percentage: 73.8%
 
 ## Challenge Overview
 Overview of Election Audit: Explain the purpose of this election audit analysis.
@@ -48,29 +47,31 @@ Election-Audit Summary: In a summary statement, provide a business proposal to t
 ### Overview of Election Audit
 The election commission has requested some additional data to complete the audit:
 
-The voter turnout for each county
-The percentage of votes from each county out of the total count
-The county with the highest turnout
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
 
 ### Election Audit Results
+
 Election Results
--------------------------
 Total Votes: 369,711
--------------------------
 County Votes:
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
--------------------------
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
+
 Largest County Turnout: Denver
--------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
+
 Winner: Diana DeGette
+
 Winning Vote Count: 272,892
+
 Winning Percentage: 73.8%
--------------------------
 
 ### Election-Audit Summary
+
+This script could be used for any election. For example, you could modify the script using a for loop to load and save results from multiple files instead of just the one. This would allow you to use the script in all the elections. Secondly you could add state as a column in the election_results.csv file and add variables and loops to also do counts by state so that you could present the information back to the user by state, then county. This would allow you to see an analysis results for multiple elections at one time.
+There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
